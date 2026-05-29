@@ -1,8 +1,8 @@
 # Course-Reservation-and-Exam-registration-systems
 
-# Reg No:
-# Name:
-# Date:
+# Reg No: 212224110035
+# Name: Maha shree M
+# Date: 29-05-2026
 
 
 # AIM:
@@ -42,6 +42,7 @@ Specifying the context and requirements of a system
 
 
 
+<img width="919" height="939" alt="image" src="https://github.com/user-attachments/assets/7f10e90d-f5c8-4dd9-ad8a-023eafa8c393" />
 
 
 
@@ -68,6 +69,7 @@ A communication diagram offers the same information as a sequence diagram, but w
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
 
 
+<img width="1010" height="682" alt="image" src="https://github.com/user-attachments/assets/412e62f7-6c6a-43b5-9c31-ceae68a08e42" />
 
 
 # PACKAGE DIAGRAM:
